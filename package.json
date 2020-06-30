@@ -1,0 +1,19 @@
+{
+  "name": "solving_cmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudahiroshi/solving_cmd.git"
+  },
+  "author": "Hiroshi Suda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudahiroshi/solving_cmd/issues"
+  },
+  "homepage": "https://github.com/sudahiroshi/solving_cmd#readme"
+}
